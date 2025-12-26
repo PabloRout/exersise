@@ -80,14 +80,14 @@
 ## Friday: Upper Body Mix (Hypertrophy)
 *Focus: Hitting muscles from different angles for a 3D look.*
 
-| Exercise                  | Sets | Reps    | Trainer's Notes                                                | GIF/Image                  |
-| :------------------------ | :--- | :------ | :------------------------------------------------------------- | :------------------------- |
-| **Pike Push-ups**         | 4    | 8-12    | Body in V-shape. Top of head touches floor. Targets shoulders. | ![Image](INSERT_LINK_HERE) |
-| **Neutral Grip Pull-ups** | 3    | Failure | Palms facing each other (or close grip).                       | ![Image](INSERT_LINK_HERE) |
-| **Zottman Curls**         | 3    | 10      | Curl up (palms up), rotate, lower down (palms down).           | ![Image](INSERT_LINK_HERE) |
-| **Overhead Tricep Ext.**  | 3    | 12-15   | Standing, hold one heavy DB with both hands behind head.       | ![Image](INSERT_LINK_HERE) |
-| **Shrugs**                | 4    | 20      | Hold heavy DBs. Squeeze shoulders to ears. 2 sec hold.         | ![Image](INSERT_LINK_HERE) |
-| **Farmer's Walk**         | 3    | 1 min   | Walk holding heaviest DBs. Builds traps and grip.              | ![Image](INSERT_LINK_HERE) |
+| Exercise                  | Sets | Reps    | Trainer's Notes                                                | GIF/Image                                                                                        |
+| :------------------------ | :--- | :------ | :------------------------------------------------------------- | :----------------------------------------------------------------------------------------------- |
+| **Pike Push-ups**         | 4    | 8-12    | Body in V-shape. Top of head touches floor. Targets shoulders. | ![Image](https://gymvisual.com/img/p/1/6/8/4/5/16845.gif)                                        |
+| **Neutral Grip Pull-ups** | 3    | Failure | Palms facing each other (or close grip).                       | ![Image](https://gymvisual.com/img/p/5/3/8/5/5385.gif)                                           |
+| **Zottman Curls**         | 3    | 10      | Curl up (palms up), rotate, lower down (palms down).           | ![Image](https://liftmanual.com/wp-content/uploads/2023/04/dumbbell-biceps-curl-reverse.gif)     |
+| **Overhead Tricep Ext.**  | 3    | 12-15   | Standing, hold one heavy DB with both hands behind head.       | ![Image](https://fitnessprogramer.com/wp-content/uploads/2021/02/Dumbbell-Triceps-Extension.gif) |
+| **Shrugs**                | 4    | 20      | Hold heavy DBs. Squeeze shoulders to ears. 2 sec hold.         | ![Image](https://gymvisual.com/img/p/1/0/0/7/3/10073.gif)                                        |
+| **Farmer's Walk**         | 3    | 1 min   | Walk holding heaviest DBs. Builds traps and grip.              | ![Image](https://fitnessprogramer.com/wp-content/uploads/2022/02/Farmers-walk_Cardio.gif)        |
 
 ---
 
