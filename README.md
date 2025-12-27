@@ -94,13 +94,13 @@
 ## Saturday: Legs (Posterior Chain)
 *Focus: Hamstrings and Glutes. Essential for posture.*
 
-| Exercise                    | Sets | Reps     | Trainer's Notes                                                           | GIF/Image                  |
-| :-------------------------- | :--- | :------- | :------------------------------------------------------------------------ | :------------------------- |
-| **Romanian Deadlift (RDL)** | 4    | 15       | Slight knee bend. Hinge at hips. **Slow tempo**. Feel hamstrings stretch. | ![Image](INSERT_LINK_HERE) |
-| **Single-Leg Glute Bridge** | 3    | 15 / leg | Lying on floor. Drive hips up using one heel. Squeeze glute.              | ![Image](INSERT_LINK_HERE) |
-| **Reverse Lunges**          | 3    | 12 / leg | Step backward. Lean slightly forward to hit glutes.                       | ![Image](INSERT_LINK_HERE) |
-| **Side Lunges (Cossack)**   | 2    | 10 / leg | Step wide. Deep stretch for inner thigh.                                  | ![Image](INSERT_LINK_HERE) |
-| **Seated Calf Raises**      | 3    | 20       | Sit on chair, place DBs on knees. Lift heels high.                        | ![Image](INSERT_LINK_HERE) |
+| Exercise                    | Sets | Reps     | Trainer's Notes                                                           | GIF/Image                                                                                              |
+| :-------------------------- | :--- | :------- | :------------------------------------------------------------------------ | :----------------------------------------------------------------------------------------------------- |
+| **Romanian Deadlift (RDL)** | 4    | 15       | Slight knee bend. Hinge at hips. **Slow tempo**. Feel hamstrings stretch. | ![Image](https://fitnessprogramer.com/wp-content/uploads/2021/02/Dumbbell-Romanian-Deadlift.gif)                                                                             |
+| **Single-Leg Glute Bridge** | 3    | 15 / leg | Lying on floor. Drive hips up using one heel. Squeeze glute.              | ![Image](https://gymvisual.com/img/p/2/0/3/2/1/20321.gif)                                              |
+| **Reverse Lunges**          | 3    | 12 / leg | Step backward. Lean slightly forward to hit glutes.                       | ![Image](https://fitnessprogramer.com/wp-content/uploads/2022/08/bodyweight-reverse-lunge.gif)         |
+| **Side Lunges (Cossack)**   | 2    | 10 / leg | Step wide. Deep stretch for inner thigh.                                  | ![Image](https://fitnessprogramer.com/wp-content/uploads/2024/09/dumbbell-cossack-squat.gif) |
+| **Seated Calf Raises**      | 3    | 20       | Sit on chair, place DBs on knees. Lift heels high.                        | ![Image](https://www.inspireusafoundation.org/wp-content/uploads/2022/10/weighted-calf-raise.gif)      |
 
 ---
 
