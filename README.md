@@ -39,13 +39,13 @@
 
 | Exercise                | Sets | Reps     | Trainer's Notes                                           | GIF/Image                  |
 | :---------------------- | :--- | :------- | :-------------------------------------------------------- | :------------------------- |
-| **Wide Grip Pull-Ups**  | 4    | Failure  | Wide grip for lat width. Add weight between feet if easy. | ![Image](INSERT_LINK_HERE) |
-| **Chin-Ups**            | 3    | 8-10     | Palms facing you. Focus on biceps and inner back.         | ![Image](INSERT_LINK_HERE) |
-| **Single-Arm DB Row**   | 4    | 15-20    | Hand on wall. Pull DB to hip pocket. Squeeze lat hard.    | ![Image](INSERT_LINK_HERE) |
-| **Rear Delt Flyes**     | 3    | 15-20    | Bent over, back flat. Fly arms out like wings.            | ![Image](INSERT_LINK_HERE) |
-| **Hammer Curls**        | 3    | 12       | Thumbs up grip. Hits forearm and outer bicep.             | ![Image](INSERT_LINK_HERE) |
-| **Concentration Curls** | 3    | 12-15    | Elbow on inner thigh. Isolate the bicep peak.             | ![Image](INSERT_LINK_HERE) |
-| **Dead Hang**           | 2    | Max Time | Hang from bar. Decompresses spine and builds grip.        | ![Image](INSERT_LINK_HERE) |
+| **Wide Grip Pull-Ups**  | 4    | Failure  | Wide grip for lat width. Add weight between feet if easy. | ![Image](https://gymvisual.com/img/p/1/4/5/3/2/14532.gif) |
+| **Chin-Ups**            | 3    | 8-10     | Palms facing you. Focus on biceps and inner back.         | ![Image](https://fitnessprogramer.com/wp-content/uploads/2021/03/Chin-Up.gif) |
+| **Single-Arm DB Row**   | 4    | 15-20    | Hand on wall. Pull DB to hip pocket. Squeeze lat hard.    | ![Image](https://fitnessprogramer.com/wp-content/uploads/2021/02/Dumbbell-Row.gif) |
+| **Rear Delt Flyes**     | 3    | 15-20    | Bent over, back flat. Fly arms out like wings.            | ![Image](https://gymvisual.com/img/p/2/1/9/2/6/21926.gif) |
+| **Hammer Curls**        | 3    | 12       | Thumbs up grip. Hits forearm and outer bicep.             | ![Image](https://fitnessprogramer.com/wp-content/uploads/2021/04/Seated-Hammer-Curl.gif) |
+| **Concentration Curls** | 3    | 12-15    | Elbow on inner thigh. Isolate the bicep peak.             | ![Image](https://fitnessprogramer.com/wp-content/uploads/2021/02/Concentration-Curl.gif) |
+| **Dead Hang**           | 2    | Max Time | Hang from bar. Decompresses spine and builds grip.        | ![Image](https://www.inspireusafoundation.org/file/2023/06/dead-hang.gif) |
 
 ---
 
@@ -94,13 +94,13 @@
 ## Saturday: Legs (Posterior Chain)
 *Focus: Hamstrings and Glutes. Essential for posture.*
 
-| Exercise                    | Sets | Reps     | Trainer's Notes                                                           | GIF/Image                                                                                              |
-| :-------------------------- | :--- | :------- | :------------------------------------------------------------------------ | :----------------------------------------------------------------------------------------------------- |
-| **Romanian Deadlift (RDL)** | 4    | 15       | Slight knee bend. Hinge at hips. **Slow tempo**. Feel hamstrings stretch. | ![Image](https://fitnessprogramer.com/wp-content/uploads/2021/02/Dumbbell-Romanian-Deadlift.gif)                                                                             |
-| **Single-Leg Glute Bridge** | 3    | 15 / leg | Lying on floor. Drive hips up using one heel. Squeeze glute.              | ![Image](https://gymvisual.com/img/p/2/0/3/2/1/20321.gif)                                              |
-| **Reverse Lunges**          | 3    | 12 / leg | Step backward. Lean slightly forward to hit glutes.                       | ![Image](https://fitnessprogramer.com/wp-content/uploads/2022/08/bodyweight-reverse-lunge.gif)         |
-| **Side Lunges (Cossack)**   | 2    | 10 / leg | Step wide. Deep stretch for inner thigh.                                  | ![Image](https://fitnessprogramer.com/wp-content/uploads/2024/09/dumbbell-cossack-squat.gif) |
-| **Seated Calf Raises**      | 3    | 20       | Sit on chair, place DBs on knees. Lift heels high.                        | ![Image](https://www.inspireusafoundation.org/wp-content/uploads/2022/10/weighted-calf-raise.gif)      |
+| Exercise                    | Sets | Reps     | Trainer's Notes                                                           | GIF/Image                                                                                         |
+| :-------------------------- | :--- | :------- | :------------------------------------------------------------------------ | :------------------------------------------------------------------------------------------------ |
+| **Romanian Deadlift (RDL)** | 4    | 15       | Slight knee bend. Hinge at hips. **Slow tempo**. Feel hamstrings stretch. | ![Image](https://fitnessprogramer.com/wp-content/uploads/2021/02/Dumbbell-Romanian-Deadlift.gif)  |
+| **Single-Leg Glute Bridge** | 3    | 15 / leg | Lying on floor. Drive hips up using one heel. Squeeze glute.              | ![Image](https://gymvisual.com/img/p/2/0/3/2/1/20321.gif)                                         |
+| **Reverse Lunges**          | 3    | 12 / leg | Step backward. Lean slightly forward to hit glutes.                       | ![Image](https://fitnessprogramer.com/wp-content/uploads/2022/08/bodyweight-reverse-lunge.gif)    |
+| **Side Lunges (Cossack)**   | 2    | 10 / leg | Step wide. Deep stretch for inner thigh.                                  | ![Image](https://fitnessprogramer.com/wp-content/uploads/2024/09/dumbbell-cossack-squat.gif)      |
+| **Seated Calf Raises**      | 3    | 20       | Sit on chair, place DBs on knees. Lift heels high.                        | ![Image](https://www.inspireusafoundation.org/wp-content/uploads/2022/10/weighted-calf-raise.gif) |
 
 ---
 
