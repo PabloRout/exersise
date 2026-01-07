@@ -69,11 +69,11 @@
 
 | Exercise                  | Reps/Time       | Technique Tip                                                     | GIF/Image                  |
 | :------------------------ | :-------------- | :---------------------------------------------------------------- | :------------------------- |
-| **1. Hanging Leg Raises** | 10-12 Reps      | Hang from bar, lift legs to 90 degrees. No swinging.              | ![Image](INSERT_LINK_HERE) |
-| **2. Russian Twists**     | 20 Reps (Total) | Hold 1 DB, feet off ground, twist torso side to side.             | ![Image](INSERT_LINK_HERE) |
-| **3. Plank to Push-up**   | 45 Seconds      | Elbow plank -> Push up position -> Elbow plank. Keep hips stable. | ![Image](INSERT_LINK_HERE) |
-| **4. Mountain Climbers**  | 45 Seconds      | Fast pace. Drive knees towards chest.                             | ![Image](INSERT_LINK_HERE) |
-| **5. Lying Leg Flutters** | 30 Seconds      | Hands under hips for support, kick legs small and fast.           | ![Image](INSERT_LINK_HERE) |
+| **1. Hanging Leg Raises** | 10-12 Reps      | Hang from bar, lift legs to 90 degrees. No swinging.              | ![Image](https://fitnessprogramer.com/wp-content/uploads/2021/02/Hanging-Knee-Raises.gif) |
+| **2. Russian Twists**     | 20 Reps (Total) | Hold 1 DB, feet off ground, twist torso side to side.             | ![Image](https://www.inspireusafoundation.org/wp-content/uploads/2021/12/how-to-do-a-kettlebell-russian-twist.gif) |
+| **3. Plank to Push-up**   | 45 Seconds      | Elbow plank -> Push up position -> Elbow plank. Keep hips stable. | ![Image](https://hw.qld.gov.au/wp-content/uploads/2015/07/05_M_WIP03-Plank-push-up.gif) |
+| **4. Mountain Climbers**  | 45 Seconds      | Fast pace. Drive knees towards chest.                             | ![Image](https://i.pinimg.com/originals/32/a7/d0/32a7d00d6123dd416e459ba67cf1691b.gif) |
+| **5. Lying Leg Flutters** | 30 Seconds      | Hands under hips for support, kick legs small and fast.           | ![Image](https://fitnessprogramer.com/wp-content/uploads/2021/02/Flutter-Kicks.gif) |
 
 ---
 
